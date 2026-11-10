@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hugo Salin
 
-<!--
-**HugoSalin/HugoSalin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Game developer and software engineer, working mostly in Unreal Engine and C++.
 
-Here are some ideas to get you started:
+I picked up Unreal Engine in 2014 and have been writing C++ since 2017. Outside of games I also build software and the occasional web project.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I do
+
+- Gameplay programming
+- Game and systems design
+- Multiplayer and networking
+- Systems engineering and architecture
+- Graphics programming
+- Animation systems
+- Procedural content generation
+- Tools and editor extensions
+
+## What I use
+
+| | |
+|---|---|
+| **Languages** | C++, C#, Python, Lua, JavaScript |
+| **Web** | React, Node.js, REST APIs |
+| **Version control** | Git, Perforce, Plastic SCM |
+| **3D and art** | Blender, Substance Painter, Substance Designer |
+
+## Contact
+
+You can reach me on [LinkedIn](https://linkedin.com/in/hugo-salin-714452184).
