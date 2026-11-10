@@ -19,6 +19,7 @@ I picked up Unreal Engine in 2014 and have been writing C++ since 2017. What I e
 ## What I use
 
 | | |
+|---|---|
 | **Languages** | C++, C#, Python, Lua, JavaScript |
 | **Web** | React, Node.js, REST APIs |
 | **Version control** | Git, Perforce, Plastic SCM |
