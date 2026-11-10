@@ -3,18 +3,6 @@
 I build games, mostly in Unreal Engine and C++. Outside of games I also build other software and the occasional web project.
  
 > What I enjoy most is multiplayer and networking, along with systems architecture and making sure games run fast without compromises.
- 
-<table>
-<tr>
-<td align="center">Game developer and software engineer, working mostly in Unreal Engine and C++.</td>
-</tr>
-<tr>
-<td>I picked up Unreal Engine in 2014 and have been writing C++ since 2017. Outside of games I also build other software and the occasional web project.</td>
-</tr>
-<tr>
-<td>What I enjoy most is multiplayer and networking, along with systems architecture and making sure games run fast without compromises.</td>
-</tr>
-</table>
 
 <table>
 <tr>
@@ -35,6 +23,8 @@ I build games, mostly in Unreal Engine and C++. Outside of games I also build ot
 
 </td>
 </tr>
+</table>
+<table>
 <tr>
 <th align="left">What I use</th>
 </tr>
