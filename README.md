@@ -1,10 +1,24 @@
+<div align="center">
+
 # Hugo Salin
 
 Game developer and software engineer, working mostly in Unreal Engine and C++.
 
-I picked up Unreal Engine in 2014 and have been writing C++ since 2017. What I enjoy most is multiplayer and networking, along with systems architecture and making sure games run fast without compromises. Outside of games I also build other software and the occasional web project.
+[LinkedIn](https://linkedin.com/in/hugo-salin-714452184)
 
-## What I do
+</div>
+
+I picked up Unreal Engine in 2014 and have been writing C++ since 2017. Outside of games I also build other software and the occasional web project.
+
+> What I enjoy most is multiplayer and networking, along with systems architecture and making sure games run fast without compromises.
+
+<table>
+<tr>
+<th width="50%" align="left">What I do</th>
+<th width="50%" align="left">What I use</th>
+</tr>
+<tr>
+<td valign="top">
 
 - Multiplayer and networking
 - Gameplay programming
@@ -16,16 +30,27 @@ I picked up Unreal Engine in 2014 and have been writing C++ since 2017. What I e
 - Tools and editor extensions
 - Whatever else a project needs
 
-## What I use
+</td>
+<td valign="top">
 
-| | |
-|---|---|
-| **Languages** | C++, C#, Python, Lua, JavaScript |
-| **Web** | React, Node.js, REST APIs |
-| **Version control** | Git, Perforce, Plastic SCM |
-| **3D and art** | Blender, Substance Painter, Substance Designer |
+**Languages**<br>
+`C++` `C#` `Python` `Lua` `JavaScript`
+
+**Web**<br>
+`React` `Node.js` `REST APIs`
+
+**Version control**<br>
+`Git` `Perforce` `Plastic SCM`
+
+**3D and art**<br>
+`Blender` `Substance Painter` `Substance Designer`
+
+</td>
+</tr>
+</table>
 
 ## Projects
+
 <kbd>▸ Click a project to expand it</kbd>
 
 <!-- Put GIFs or screenshots in an images/ folder in this repo. Entries start expanded if they contain "open" keyword, eg. <details open> -->
@@ -79,41 +104,3 @@ Nine to Five was a team-based multiplayer FPS. At Redhill I worked across much o
 [9-5 Teaser Trailer](https://www.youtube.com/watch?v=GRqjKMdoicw)
 
 </details>
-
-<!--
-
-<details>
-<summary><b>TODO: Project name</b> · TODO: one-line pitch</summary>
-<br>
-
-TODO: Longer description. (eg. what is it, and any difficulties or learnings.)
-
-- TODO: Technical highlight
-- TODO: Technical highlight
-
-<img src="images/TODO.gif" alt="TODO: Project name" width="600">
-
-[Repo](TODO) · [Video](TODO)
-
-</details>
-
-<details>
-<summary><b>TODO: Project name</b> · TODO: one-line pitch</summary>
-<br>
-
-TODO: Longer description. (eg. what is it, and any difficulties or learnings.)
-
-- TODO: Technical highlight
-- TODO: Technical highlight
-
-<img src="images/TODO.gif" alt="TODO: Project name" width="600">
-
-[Repo](TODO) · [Video](TODO)
-
-</details>
-
--->
-
-## Contact
-
-You can reach me on [LinkedIn](https://linkedin.com/in/hugo-salin-714452184).
