@@ -4,15 +4,6 @@ Game developer and software engineer, working mostly in Unreal Engine and C++.
 
 I picked up Unreal Engine in 2014 and have been writing C++ since 2017. What I enjoy most is multiplayer and networking, along with systems architecture and making sure games run fast without compromises. Outside of games I also build other software and the occasional web project.
 
-TEST 1:
-## Projects
-
-<kbd>▸ Click a project to expand it</kbd>
-
-TEST 2:
-> [!TIP]
-> Click a project to expand it.
-
 ## What I do
 
 - Multiplayer and networking
@@ -35,6 +26,7 @@ TEST 2:
 | **3D and art** | Blender, Substance Painter, Substance Designer |
 
 ## Projects
+<kbd>▸ Click a project to expand it</kbd>
 
 <!-- Put GIFs or screenshots in an images/ folder in this repo. Entries start expanded if they contain "open" keyword, eg. <details open> -->
 
