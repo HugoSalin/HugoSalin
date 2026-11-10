@@ -47,6 +47,7 @@ I build games, mostly in Unreal Engine and C++. What I enjoy most is multiplayer
 </td>
 </tr>
 </table>
+
 ## Projects
 
 <kbd>▸ Click a project to expand it</kbd>
@@ -97,6 +98,7 @@ Nine to Five was a team-based multiplayer FPS. At Redhill I worked across much o
 </td>
 </tr>
 </table>
+
 > I worked closely with the designers to implement features, and with the animation department during 2021. I also helped onboard a new hire.
 
 [9-5 Teaser Trailer](https://www.youtube.com/watch?v=GRqjKMdoicw)
@@ -108,6 +110,7 @@ Nine to Five was a team-based multiplayer FPS. At Redhill I worked across much o
 TODO
 
 </details>
+
 ## Contact
 
 You can reach me on [LinkedIn](https://linkedin.com/in/hugo-salin-714452184).
