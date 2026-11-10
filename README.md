@@ -1,10 +1,9 @@
 <picture><img src="images/header.svg" alt="Hugo Salin, game developer and software engineer. Unreal Engine since 2014, C++ since 2017." width="100%"></picture>
  
 ## About
-
+ 
 I build games, mostly in Unreal Engine and C++. What I enjoy most is multiplayer and networking, along with systems architecture and making sure games run fast without compromises. Outside of games I also build other software and the occasional web project.
-
-
+ 
 <br>
 <table>
 <tr>
@@ -12,7 +11,6 @@ I build games, mostly in Unreal Engine and C++. What I enjoy most is multiplayer
 </tr>
 <tr>
 <td>
-
 - Multiplayer and networking
 - Gameplay programming
 - Systems engineering and architecture
@@ -22,7 +20,6 @@ I build games, mostly in Unreal Engine and C++. What I enjoy most is multiplayer
 - Procedural content generation
 - Tools and editor extensions
 - Whatever else a project needs
-
 </td>
 </tr>
 </table>
@@ -32,23 +29,21 @@ I build games, mostly in Unreal Engine and C++. What I enjoy most is multiplayer
 </tr>
 <tr>
 <td>
-
 **Languages**<br>
 `C++` `C#` `Python` `Lua` `JavaScript`
-
+ 
 **Web**<br>
 `React` `Node.js` `REST APIs`
-
+ 
 **Version control**<br>
 `Git` `Perforce` `Plastic SCM`
-
+ 
 **3D and art**<br>
 `Blender` `Substance Painter` `Substance Designer`
-
+ 
 </td>
 </tr>
 </table>
-
 ## Projects
  
 <kbd>▸ Click a project to expand it</kbd>
@@ -100,15 +95,12 @@ Nine to Five was a team-based multiplayer FPS. At Redhill I worked across much o
 [9-5 Teaser Trailer](https://www.youtube.com/watch?v=GRqjKMdoicw)
  
 </details>
-
 <details>
-<summary><b>TODO</b> · Add some personal projects xd<br><br>
-<picture><img src="" alt=""></picture>
-</summary>
-<hr>TODO
+<summary><b>TODO</b> · Add some personal projects xd</summary>
+<hr>
+TODO
  
 </details>
-
 ## Contact
-
-You can reach me on [LinkedIn](https://linkedin.com/in/hugo-salin-714452184)
+ 
+You can reach me on [LinkedIn](https://linkedin.com/in/hugo-salin-714452184).
