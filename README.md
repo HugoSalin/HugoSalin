@@ -50,7 +50,7 @@ Outside of games, I build other software and the occasional web project.
 `C++` `C#` `JS`
 
 **Scripting**<br>
-`Lua` `Python` `Blueprints` `GDScript`
+`Lua` `Python` `Blueprint` `GDScript`
 
 **Web**<br>
 `React` `Node.js` `REST APIs`
