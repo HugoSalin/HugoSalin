@@ -2,7 +2,7 @@
 
 ## About
 
-I build games, primarily in Unreal Engine and C++. What I enjoy most is multiplayer and networking, along with systems architecture and making sure games run fast without compromises. Outside of games I also build other software and the occasional web project.
+I build games, primarily in Unreal Engine and C++. I'm particularly interested in multiplayer and systems architecture/engineering, but enjoy working across all areas of game development, from gameplay programming and graphics to performance optimization and tooling. I also enjoy tackling interesting technical problems. Outside of games, I build other software and the occasional web project.
 
 <br>
 <table>
@@ -17,7 +17,7 @@ I build games, primarily in Unreal Engine and C++. What I enjoy most is multipla
 - Systems engineering and architecture
 - Game and systems design
 - Performance and optimization
-- Graphics programming
+- Graphics programming, rendering, shaders
 - Procedural content generation
 - Tools and editor extensions
 - Whatever else a project needs
