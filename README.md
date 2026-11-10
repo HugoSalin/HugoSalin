@@ -44,7 +44,7 @@ Outside of games, I build other software and the occasional web project.
 <td>
 
 **Engines**<br>
-`Unreal Engine` (primary, since 2014) · also `Unity` `Godot`
+`Unreal Engine` `Unity` `Godot`
 
 **Languages**<br>
 `C++` `C#` `Python` `Lua` `JavaScript`
