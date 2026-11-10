@@ -58,7 +58,7 @@
     <text x="488" y="129"><tspan class="k">if</tspan> (FrameTime &gt; Budget)</text>
     <text x="518" y="144"><tspan class="f">Optimize</tspan>();</text>
     <text x="488" y="159"><tspan class="k">else</tspan></text>
-    <text x="518" y="174"><tspan class="f">TightenBudget</tspan>();</text>
+    <text x="518" y="174"><tspan class="f">AddMoreFeatures</tspan>();</text>
     <text x="458" y="189">}</text>
   </g>
 
