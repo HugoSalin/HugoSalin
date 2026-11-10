@@ -30,12 +30,22 @@ I picked up Unreal Engine in 2014 and have been writing C++ since 2017. What I e
 <!-- Put GIFs or screenshots in an images/ folder in this repo. Entries start expanded if they contain "open" keyword, eg. <details open> -->
 
 <details>
-<summary><b>Nine to Five</b> · Redhill Games · Junior Gameplay Programmer, 2019-2021</summary>
+<summary><b>Nine to Five</b> · Redhill Games · Junior Gameplay Programmer, 2019–2021</summary>
 <br>
+
+<img src="images/NineToFiveHeader.png" alt="Nine to Five" width="100%">
 
 Nine to Five was a team-based multiplayer FPS. At Redhill I worked across much of the game, primarily on multiplayer gameplay programming, along with UI and animation.
 
-Responsible for:
+`Unreal Engine` `C++` `Multiplayer` `Gameplay` `Animation` `UI`
+
+<table>
+<tr>
+<th width="50%" align="left">Responsible for</th>
+<th width="50%" align="left">Other work</th>
+</tr>
+<tr>
+<td valign="top">
 
 - Mantling
 - Drone movement
@@ -43,7 +53,8 @@ Responsible for:
 - Off-center shooting with a screen-space reticle
 - Player bots (prototype)
 
-Other work:
+</td>
+<td valign="top">
 
 - Gunplay
 - Performance profiling
@@ -54,11 +65,13 @@ Other work:
 - Ladder animation systems
 - Animation Blueprint optimization and debugging
 
-I worked closely with the designers to implement features, and with the animation department during 2021. I also helped onboard a new hire.
+</td>
+</tr>
+</table>
 
-<img src="images/NineToFiveHeader.png" alt="Nine to Five" width="600">
+> I worked closely with the designers to implement features, and with the animation department during 2021. I also helped onboard a new hire.
 
-[Video](https://www.youtube.com/watch?v=GRqjKMdoicw)
+[9-5 Teaser Trailer](https://www.youtube.com/watch?v=GRqjKMdoicw)
 
 </details>
 
