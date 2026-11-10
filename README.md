@@ -47,7 +47,7 @@ Outside of games, I build other software and the occasional web project.
 `Unreal Engine` `Unity` `Godot`
 
 **Languages**<br>
-`C++` `C#` `JavaScript`
+`C++` `C#` `JS`
 
 **Scripting**<br>
 `Lua` `Python` `Blueprints` `GDScript`
