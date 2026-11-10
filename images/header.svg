@@ -55,7 +55,7 @@
     <text x="458" y="79">{</text>
     <text x="488" y="94"><tspan class="t">Super</tspan>::<tspan class="f">Tick</tspan>(DeltaTime);</text>
     <text x="488" y="109"><tspan class="f">MakeGames</tspan>();</text>
-    <text x="488" y="129"><tspan class="k">if</tspan> (FrameTime &gt; Budget)</text>
+    <text x="488" y="129"><tspan class="k">if</tspan> (FrameTimeMS &gt; BudgetMS)</text>
     <text x="518" y="144"><tspan class="f">Optimize</tspan>();</text>
     <text x="488" y="159"><tspan class="k">else</tspan></text>
     <text x="518" y="174"><tspan class="f">AddMoreFeatures</tspan>();</text>
