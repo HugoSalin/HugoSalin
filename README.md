@@ -7,7 +7,9 @@
 <tr>
 <td>
 
-I build games, primarily in Unreal Engine and C++. I'm particularly interested in multiplayer and systems architecture/engineering, but enjoy working across all areas of game development, from gameplay programming and graphics programming to performance optimization and tooling. I also enjoy tackling interesting technical problems. Outside of games, I build other software and the occasional web project.
+I build games, primarily in Unreal Engine and C++.
+I'm particularly interested in multiplayer and systems architecture/engineering, but enjoy working across all areas of game development, from gameplay programming and graphics programming to performance optimization and tooling. I also enjoy tackling interesting technical problems.
+Outside of games, I build other software and the occasional web project.
 
 </td>
 </tr>
