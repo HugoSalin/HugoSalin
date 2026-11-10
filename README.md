@@ -30,19 +30,39 @@ I picked up Unreal Engine in 2014 and have been writing C++ since 2017. What I e
 <!-- Put GIFs or screenshots in an images/ folder in this repo. Entries start expanded if they contain "open" keyword, eg. <details open> -->
 
 <details>
-<summary><b>TODO: Project name</b> · TODO: one-line pitch</summary>
+<summary><b>Nine to Five</b> · Redhill Games · Junior Gameplay Programmer, 2019-2021</summary>
 <br>
 
-TODO: Longer description. (eg. what is it, and any difficulties or learnings.)
+Nine to Five was a team-based multiplayer FPS. At Redhill I worked across much of the game, primarily on multiplayer gameplay programming, along with UI and animation.
 
-- TODO: Technical highlight
-- TODO: Technical highlight
+Responsible for:
 
-<img src="images/TODO.gif" alt="TODO: Project name" width="600">
+- Mantling
+- Drone movement
+- Client-side prediction for ammo count
+- Off-center shooting with a screen-space reticle
+- Player bots (prototype)
 
-[Repo](TODO) · [Video](TODO)
+Other work:
+
+- Gunplay
+- Performance profiling
+- General gameplay features and scripting
+- HUD and UI
+- TPV/FPV synced animation montage queues
+- Mantle related animation systems
+- Ladder animation systems
+- Animation Blueprint optimization and debugging
+
+I worked closely with the designers to implement features, and with the animation department during 2021. I also helped onboard a new hire.
+
+<img src="images/NineToFiveHeader.png" alt="Nine to Five" width="600">
+
+[Video](https://www.youtube.com/watch?v=GRqjKMdoicw)
 
 </details>
+
+<!--
 
 <details>
 <summary><b>TODO: Project name</b> · TODO: one-line pitch</summary>
@@ -73,6 +93,8 @@ TODO: Longer description. (eg. what is it, and any difficulties or learnings.)
 [Repo](TODO) · [Video](TODO)
 
 </details>
+
+-->
 
 ## Contact
 
