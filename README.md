@@ -21,7 +21,7 @@ I build games, mostly in Unreal Engine and C++. What I enjoy most is multiplayer
 - Procedural content generation
 - Tools and editor extensions
 - Whatever else a project needs
-- 
+
 </td>
 </tr>
 </table>
