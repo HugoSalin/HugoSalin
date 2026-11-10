@@ -101,6 +101,14 @@ Nine to Five was a team-based multiplayer FPS. At Redhill I worked across much o
  
 </details>
 
+<details>
+<summary><b>TODO</b> · Add some personal projects xd<br><br>
+<picture><img src="" alt=""></picture>
+</summary>
+<hr>TODO
+ 
+</details>
+
 ## Contact
 
 You can reach me on [LinkedIn](https://linkedin.com/in/hugo-salin-714452184)
