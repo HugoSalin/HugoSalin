@@ -41,11 +41,10 @@ Nine to Five was a team-based multiplayer FPS. At Redhill I worked across much o
 
 <table>
 <tr>
-<th width="50%" align="left">Responsible for</th>
-<th width="50%" align="left">Other work</th>
+<th align="left">Responsible for</th>
 </tr>
 <tr>
-<td valign="top">
+<td>
 
 - Mantling
 - Drone movement
@@ -54,7 +53,12 @@ Nine to Five was a team-based multiplayer FPS. At Redhill I worked across much o
 - Player bots (prototype)
 
 </td>
-<td valign="top">
+</tr>
+<tr>
+<th align="left">Contributed to</th>
+</tr>
+<tr>
+<td>
 
 - Gunplay
 - Performance profiling
