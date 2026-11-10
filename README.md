@@ -31,9 +31,9 @@ I picked up Unreal Engine in 2014 and have been writing C++ since 2017. What I e
 
 <details>
 <summary><b>Nine to Five</b> · Redhill Games · Junior Gameplay Programmer, 2019–2021<br><br>
-<img src="images/NineToFiveHeader.jpg" alt="Nine to Five">
+<picture><img src="images/NineToFiveHeader.jpg" alt="Nine to Five"></picture>
 </summary>
-<br>
+<hr>
 
 Nine to Five was a team-based multiplayer FPS. At Redhill I worked across much of the game, primarily on multiplayer gameplay programming, along with UI and animation.
 
