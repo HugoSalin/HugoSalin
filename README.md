@@ -60,8 +60,6 @@ I build games, mostly in Unreal Engine and C++. What I enjoy most is multiplayer
 <hr>
 Nine to Five was a team-based multiplayer FPS. At Redhill I worked across much of the game, primarily on multiplayer gameplay programming, along with a decent amount of animation systems and some UI work sprinkled in.
 
-<br><br>
-
 `Unreal Engine` `C++` `Multiplayer` `Gameplay` `Animation` `UI`
 
 <table>
