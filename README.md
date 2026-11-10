@@ -14,7 +14,7 @@ I picked up Unreal Engine in 2014 and have been writing C++ since 2017. What I e
 - Graphics programming
 - Procedural content generation
 - Tools and editor extensions
-- Whatever I'm tasked with
+- Whatever else a project needs
 
 ## What I use
 
