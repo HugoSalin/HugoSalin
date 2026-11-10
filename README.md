@@ -1,8 +1,8 @@
 <picture><img src="images/header.svg" alt="Hugo Salin, game developer and software engineer. Unreal Engine since 2014, C++ since 2017." width="100%"></picture>
  
-I build games, mostly in Unreal Engine and C++. Outside of games I also build other software and the occasional web project.
- 
-> What I enjoy most is multiplayer and networking, along with systems architecture and making sure games run fast without compromises.
+## About
+
+I build games, mostly in Unreal Engine and C++. What I enjoy most is multiplayer and networking, along with systems architecture and making sure games run fast without compromises. Outside of games I also build other software and the occasional web project.
 
 <table>
 <tr>
