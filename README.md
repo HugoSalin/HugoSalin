@@ -4,8 +4,6 @@ I build games, mostly in Unreal Engine and C++. Outside of games I also build ot
  
 > What I enjoy most is multiplayer and networking, along with systems architecture and making sure games run fast without compromises.
  
-[LinkedIn](https://linkedin.com/in/hugo-salin-714452184)
- 
 ## What I do
  
 - Multiplayer and networking
@@ -74,3 +72,7 @@ Nine to Five was a team-based multiplayer FPS. At Redhill I worked across much o
 [9-5 Teaser Trailer](https://www.youtube.com/watch?v=GRqjKMdoicw)
  
 </details>
+
+## Contact
+
+You can reach me on [LinkedIn](https://linkedin.com/in/hugo-salin-714452184)
