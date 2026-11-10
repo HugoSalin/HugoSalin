@@ -4,8 +4,25 @@ I build games, mostly in Unreal Engine and C++. Outside of games I also build ot
  
 > What I enjoy most is multiplayer and networking, along with systems architecture and making sure games run fast without compromises.
  
-## What I do
- 
+<table>
+<tr>
+<td align="center">Game developer and software engineer, working mostly in Unreal Engine and C++.</td>
+</tr>
+<tr>
+<td>I picked up Unreal Engine in 2014 and have been writing C++ since 2017. Outside of games I also build other software and the occasional web project.</td>
+</tr>
+<tr>
+<td>What I enjoy most is multiplayer and networking, along with systems architecture and making sure games run fast without compromises.</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<th align="left">What I do</th>
+</tr>
+<tr>
+<td>
+
 - Multiplayer and networking
 - Gameplay programming
 - Systems engineering and architecture
@@ -15,12 +32,31 @@ I build games, mostly in Unreal Engine and C++. Outside of games I also build ot
 - Procedural content generation
 - Tools and editor extensions
 - Whatever else a project needs
-## What I use
- 
-- **Languages:** `C++` `C#` `Python` `Lua` `JavaScript`
-- **Web:** `React` `Node.js` `REST APIs`
-- **Version control:** `Git` `Perforce` `Plastic SCM`
-- **3D and art:** `Blender` `Substance Painter` `Substance Designer`
+
+</td>
+</tr>
+<tr>
+<th align="left">What I use</th>
+</tr>
+<tr>
+<td>
+
+**Languages**<br>
+`C++` `C#` `Python` `Lua` `JavaScript`
+
+**Web**<br>
+`React` `Node.js` `REST APIs`
+
+**Version control**<br>
+`Git` `Perforce` `Plastic SCM`
+
+**3D and art**<br>
+`Blender` `Substance Painter` `Substance Designer`
+
+</td>
+</tr>
+</table>
+
 ## Projects
  
 <kbd>▸ Click a project to expand it</kbd>
