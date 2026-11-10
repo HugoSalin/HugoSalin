@@ -62,25 +62,6 @@
     <text x="458" y="189">}</text>
   </g>
 
-  <polygon class="face" points="752,110 806,100 830,142 818,190 770,204 732,166"/>
-  <g>
-    <polyline class="edge" fill="none" points="752,110 806,100 830,142 818,190 770,204 732,166 752,110"/>
-    <line class="edge" x1="782" y1="150" x2="752" y2="110"/>
-    <line class="edge" x1="782" y1="150" x2="806" y2="100"/>
-    <line class="edge" x1="782" y1="150" x2="830" y2="142"/>
-    <line class="edge" x1="782" y1="150" x2="818" y2="190"/>
-    <line class="edge" x1="782" y1="150" x2="770" y2="204"/>
-    <line class="edge" x1="782" y1="150" x2="732" y2="166"/>
-  </g>
-  <circle class="node" cx="752" cy="110" r="5"/>
-  <circle class="node" cx="806" cy="100" r="5"/>
-  <circle class="node" cx="830" cy="142" r="5"/>
-  <circle class="node" cx="818" cy="190" r="5"/>
-  <circle class="node" cx="770" cy="204" r="5"/>
-  <circle class="node" cx="732" cy="166" r="5"/>
-  <circle class="ring" cx="782" cy="150" r="13"/>
-  <circle class="hot" cx="782" cy="150" r="6.5"/>
-
   <text class="name" x="40" y="88">Hugo Salin</text>
   <text class="role" x="41" y="122">Game developer and software engineer</text>
   <rect class="chip" x="40" y="152" width="200" height="32" rx="16"/>
