@@ -38,16 +38,22 @@ Outside of games, I build other software and the occasional web project.
 </table>
 <table>
 <tr>
-<th align="left">What I use</th>
+<th align="left">Mostly working with</th>
 </tr>
 <tr>
 <td>
+
+**Engines**<br>
+`Unreal Engine` (primary, since 2014) · also `Unity` `Godot`
 
 **Languages**<br>
 `C++` `C#` `Python` `Lua` `JavaScript`
 
 **Web**<br>
 `React` `Node.js` `REST APIs`
+
+**Databases**<br>
+`MongoDB`
 
 **Version control**<br>
 `Git` `Perforce` `Plastic SCM`
