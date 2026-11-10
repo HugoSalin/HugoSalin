@@ -30,10 +30,10 @@ I picked up Unreal Engine in 2014 and have been writing C++ since 2017. What I e
 <!-- Put GIFs or screenshots in an images/ folder in this repo. Entries start expanded if they contain "open" keyword, eg. <details open> -->
 
 <details>
-<summary><b>Nine to Five</b> · Redhill Games · Junior Gameplay Programmer, 2019–2021</summary>
-<br>
-
+<summary><b>Nine to Five</b> · Redhill Games · Junior Gameplay Programmer, 2019–2021<br><br>
 <img src="images/NineToFiveHeader.jpg" alt="Nine to Five">
+</summary>
+<br>
 
 Nine to Five was a team-based multiplayer FPS. At Redhill I worked across much of the game, primarily on multiplayer gameplay programming, along with UI and animation.
 
